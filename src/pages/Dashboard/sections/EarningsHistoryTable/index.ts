@@ -1,0 +1,1 @@
+export { EarningsHistoryTable } from "./EarningsHistoryTable";
